@@ -83,6 +83,14 @@
 				'slug'     => 'contact-form-7',
 				'required' => false,
 			),
+			array(
+				'name'     => 'Oracy Toolkit',
+				'slug'     => 'oracy-toolkit',
+				'source'   => get_stylesheet_directory() . '/lib/plugins/oracy-toolkit.zip',
+                // 'version'            => '1.0',
+				'required' => true,
+
+			),
 
 
 		
